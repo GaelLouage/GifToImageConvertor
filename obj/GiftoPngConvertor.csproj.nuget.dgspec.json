@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\louag\\source\\repos\\GiftoPngConvertor\\GiftoPngConvertor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\louag\\source\\repos\\GiftoPngConvertor\\GiftoPngConvertor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\louag\\source\\repos\\GiftoPngConvertor\\GiftoPngConvertor.csproj",
+        "projectName": "GiftoPngConvertor",
+        "projectPath": "C:\\Users\\louag\\source\\repos\\GiftoPngConvertor\\GiftoPngConvertor.csproj",
+        "packagesPath": "C:\\Users\\louag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\louag\\source\\repos\\GiftoPngConvertor\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\louag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
+        },
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {
+          "dependencies": {
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

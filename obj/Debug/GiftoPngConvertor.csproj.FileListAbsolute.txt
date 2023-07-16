@@ -1,0 +1,16 @@
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor.csproj.AssemblyReference.cache
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\MainWindow.g.cs
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\App.g.cs
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor_MarkupCompile.cache
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor_MarkupCompile.lref
+C:\Users\louag\source\repos\GiftoPngConvertor\bin\Debug\GiftoPngConvertor.exe
+C:\Users\louag\source\repos\GiftoPngConvertor\bin\Debug\GiftoPngConvertor.pdb
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\MainWindow.baml
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor.g.resources
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor.Properties.Resources.resources
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor.csproj.GenerateResource.cache
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor.exe
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor.pdb
+C:\Users\louag\source\repos\GiftoPngConvertor\bin\Debug\System.ValueTuple.dll
+C:\Users\louag\source\repos\GiftoPngConvertor\obj\Debug\GiftoPngConvertor.csproj.CopyComplete
